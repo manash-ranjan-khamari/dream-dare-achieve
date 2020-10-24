@@ -27,7 +27,7 @@ jQuery(document).ready(function($) {
       // smoothscroll on sidenav click
 
     $('.tabgroup > div').hide();
-        $('.tabgroup > div:first-of-type').show();
+        $('.tabgroup > div:last-of-type').show();
         $('.tabs a').click(function(e){
           e.preventDefault();
             var $this = $(this),
