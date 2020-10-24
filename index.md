@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/manash-ranjan-khamari/manash.ranjan.khamari/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have over 10 years of experience working in web development mostly as a full stack developer. Currently, I work as Technical lead at [Encora Inc](https://www.encora.com/), where I lead a cross-functional team, working on 4th ranked US based real estate product named [Movoto Real Estate](https://www.movoto.com/), which forms a bridge between seller, agent & potential buyers. I'm deeply passionate about creating good quality, high performing, distributed & scalable product. 
 
-### Markdown
+Previously, I worked at [Quikr](https://www.quikr.com/), building real estate portal [QuikrHomes](https://www.quikr.com/homes) up from scratch. Prior to that I was working at [Flipkart](https://www.flipkart.com/) as part of checkout team. Also I have experience in working on a digital publishing platform product.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you catch me outside of work, I'm an adventurous traveler, I love exploring new places, love driving too. When @ home you can find me looking over my plants on my balcony garden.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manash-ranjan-khamari/manash.ranjan.khamari/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I also like meeting new people over a cup of coffee. Feel free to reach out at [manash.khamai@outlook.com](mailto:manash.khamai@outlook.com) or DM on Twitter **@MaK_mf**.
